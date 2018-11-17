@@ -29,6 +29,10 @@ a {
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
+.img-fluid{
+  height: 100px;
+  width: 100px;
+}
 
 a:hover {
   color: #f05f40;
